@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "capistrano-upload-configs"
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.authors     = ["Jason Lee"]
   s.email       = ["huacnlee@gmail.com"]
   s.homepage    = "https://github.com/huacnlee/capistrano-upload-configs"
